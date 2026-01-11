@@ -1,0 +1,21 @@
+
+---
+
+## ✅ STEP 3: (Optional but Powerful) Add ONE More File
+Create a new file in the repo:
+**`CLOUD_BASICS.md`**
+
+Paste this:
+
+```markdown
+# Cloud Basics Explained Simply
+
+Cloud computing allows users to access computing resources such as servers, storage, and applications over the internet instead of owning physical hardware.
+
+### Benefits:
+- Lower startup costs
+- Easy scalability
+- Remote access
+- Energy efficiency when managed correctly
+
+Cloud platforms support innovation, especially in developing tech ecosystems.
